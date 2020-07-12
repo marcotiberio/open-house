@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-TU_IfA_-_E02_ISO_3">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="TU_IfA_-_E02_ISO_3" data-name="TU IfA - E02 ISO – 3" clip-path="url(#clip-TU_IfA_-_E02_ISO_3)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="_00_ELEVATOR" data-name="00_ELEVATOR" transform="translate(930 96)">
+      <path id="Path_20488" data-name="Path 20488" d="M960,152.989l58.455-33.749V897.6l-58.441,33.741Z" transform="translate(-930.772 -102.994)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+      <path id="Path_20489" data-name="Path 20489" d="M958.941,153.6l-29.227-16.874.012,778.355,29.227,16.874Z" transform="translate(-929.714 -103.605)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+      <path id="Path_20490" data-name="Path 20490" d="M929.714,135.547l29.227,16.874,58.49-33.76-28.377-16.256Z" transform="translate(-929.714 -102.406)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+      <line id="Line_7318" data-name="Line 7318" y2="32.609" transform="translate(59.341)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g id="_00_ELEVATOR_DOOR" data-name="00_ELEVATOR DOOR" transform="translate(3.011 440.547)">
+        <path id="Path_20506" data-name="Path 20506" d="M932.833,619.06V558.91l23.206,13.4v60.151Z" transform="translate(-932.833 -558.91)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="1" fill-rule="evenodd"/>
+        <line id="Line_7319" data-name="Line 7319" y2="60.151" transform="translate(11.603 6.998)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
