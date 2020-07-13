@@ -2063,9 +2063,12 @@ textarea {
 	}
 	
 	.studio-code {
+		margin: 0;
 		position: absolute;
-    	top: 134px;
-    	left: 35%;
+		top: 19.5vh;
+		left: 50%;
+		transform: translate(-50%, -50%);
+}
 	}
 	
 	.page-template-template-parent .site-main_mobile {
