@@ -2138,6 +2138,11 @@ textarea {
 		padding: 5%;
 	}
 
+	.wp-block-getwid-custom-post-type {
+		overflow: auto;
+		height: 70vh;
+	}
+
 }
 
 @media (min-width: 1920px) {
