@@ -16,7 +16,7 @@
 	?>
 
     <div class="button_logo-landing">
-		<a href="http://staging-tuberlinifa.kinsta.cloud/rundgang/">
+		<a href="https://open-house.architektur.tu-berlin.de/?page_id=2">
             <img src="http://staging-tuberlinifa.kinsta.cloud/wp-content/uploads/2020/06/logo.png" alt="TU Berlin IfA Logo">
         </a>
     </div>
