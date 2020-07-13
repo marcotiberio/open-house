@@ -28,11 +28,11 @@ get_header();  ?>
 		<div class="footer">
             <div class="bottom-left">
                 <a onclick="goBack()">
-                    <img src="http://staging-tuberlinifa.kinsta.cloud/wp-content/uploads/2020/06/MARC-T-STAIR.png" alt="">
+                    <img src="https://open-house.architektur.tu-berlin.de/wp-content/uploads/2020/06/MARC-T-STAIR.png" alt="">
                 </a>
             </div>
             <div class="bottom-right">
-                <img id="openInfo" src="http://staging-tuberlinifa.kinsta.cloud/wp-content/uploads/2020/06/info-icon.png" alt="Icon Info">
+                <img id="openInfo" src="https://open-house.architektur.tu-berlin.de/wp-content/uploads/2020/06/info-icon.png" alt="Icon Info">
             </div>
 		</div>
 		
@@ -42,7 +42,7 @@ get_header();  ?>
             <span class="close">&times;</span>            
                 <?php the_field('info_studio'); ?>
             <div id="openVideo">
-                <span><img src="http://staging-tuberlinifa.kinsta.cloud/wp-content/uploads/2020/07/play-video.png" alt="Play Button"></span>
+                <span><img src="https://open-house.architektur.tu-berlin.de/wp-content/uploads/2020/07/play-video.png" alt="Play Button"></span>
                 <h3>Interview</h3>
             </div>
         </div>
@@ -67,7 +67,7 @@ get_header();  ?>
     <div class="site-main_mobile"> <!-- #main mobile -->
 
         <div class="floor-pad_mobile">
-            <a href="http://staging-tuberlinifa.kinsta.cloud/"><img src="http://staging-tuberlinifa.kinsta.cloud/wp-content/uploads/2020/07/floorpad-mobile.png" alt="floorpad mobile"></a>
+            <a href="https://open-house.architektur.tu-berlin.de/"><img src="https://open-house.architektur.tu-berlin.de/wp-content/uploads/2020/07/floorpad-mobile.png" alt="floorpad mobile"></a>
         </div>
         
         <div class="logo-studio_mobile">

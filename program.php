@@ -31,11 +31,11 @@ get_header();
 		<div class="footer">
             <div class="bottom-left">
                 <a onclick="goBack()">
-                    <img src="http://staging-tuberlinifa.kinsta.cloud/wp-content/uploads/2020/06/MARC-T-STAIR.png" alt="">
+                    <img src="https://open-house.architektur.tu-berlin.de/wp-content/uploads/2020/06/MARC-T-STAIR.png" alt="">
                 </a>
             </div>
             <div class="bottom-right">
-                <img id="openIntro" src="http://staging-tuberlinifa.kinsta.cloud/wp-content/uploads/2020/06/info-icon.png" alt="Icon Info">
+                <img id="openIntro" src="https://open-house.architektur.tu-berlin.de/wp-content/uploads/2020/06/info-icon.png" alt="Icon Info">
             </div>
 		</div>
 		
