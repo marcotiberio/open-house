@@ -4,7 +4,7 @@
 }
 
 .slides img {
-    height: 500px !important;
+    height: 70vh !important;
     width: auto;
     padding: 0 1.5vh;
 }
@@ -39,7 +39,7 @@
 	}
 	
 	.slides img {
-		height: 70vh;
+		height: 70vh !important;
 		width: auto;
 		padding: 0 1.5vh;
 	}
