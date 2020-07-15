@@ -1,19 +1,12 @@
 <?php 
-	/* Template Name: Coming Soon */
-?>
-
-<?php get_header(); ?>
+	/* Template Name: Coming Soon */ 
+    
+    
+get_header();  ?>
 
 <section class="background_comingsoon">
-
-    <?php
-		while ( have_posts() ) :
-			the_post();
-
-			get_template_part( 'template-parts/content', 'page' );
-
-		endwhile; // End of the loop.
-	?>
+	
+	<img src="https://open-house.architektur.tu-berlin.de/wp-content/uploads/2020/07/WEBSITE-LAUNCH.jpg" alt="If-A-Web-Placeholder" border="0">
 
 </section>
 

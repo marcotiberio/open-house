@@ -1865,8 +1865,12 @@ textarea {
 }
 
 .wp-block-getwid-custom-post-type {
-    overflow: hidden;
-    height: 70vh
+    overflow: auto;
+    height: 70vh;
+}
+
+.page-template-template-child .wp-block-getwid-custom-post-type::-webkit-scrollbar {
+	display: none;
 }
 
 .studio-code {
@@ -1874,7 +1878,11 @@ textarea {
     position: absolute;
     top: 90vh;
     left: 50%;
-    transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	
+	font-weight: 300;
+	font-size: 1.2rem;
+	text-align: center;
 }
 
 
