@@ -2812,6 +2812,109 @@ textarea {
 	}
 }
 
+@media (min-width: 2560px) {
+	
+	#svgFloor0 {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: auto;
+		margin: 0;
+		padding-top: 20px;
+	}
+
+	#svgFloor1 {
+		position: absolute;
+		top: 2105px;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		margin: 0;
+		padding: 0;
+	}
+
+	#svgFloor2 {
+		position: absolute;
+		top: 4930px;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		margin: 0;
+		padding: 0;
+	}
+
+	#svgFloor3 {
+		position: absolute;
+		top: 7730px;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		margin: 0;
+		padding: 0;
+	}
+
+	#svgFloor4 {
+		position: absolute;
+		top: 10530px;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		margin: 0;
+		padding: 0;
+	}
+
+	#svgFloor5 {
+		position: absolute;
+		top: 13330px;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		margin: 0;
+		padding: 0;
+	}
+
+	#svgFloor6 {
+		position: absolute;
+		top: 16130px;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		margin: 0;
+		padding: 0;
+	}
+
+	#svgFloor7 {
+		position: absolute;
+		top: 18930px;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		margin: 0;
+		padding: 0;
+	}
+
+	#svgFloor8 {
+		position: absolute;
+		top: 21730px;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		margin: 0;
+		padding: 0;
+	}
+
+	#svgFloor9 {
+		position: absolute;
+		top: 24530px;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		margin: 0;
+		padding: 0;
+	}
+}
+
 
 
 /*--------------------------------------------------------------
