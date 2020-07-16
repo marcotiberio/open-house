@@ -15,11 +15,10 @@
 
 						// vars
 						$image = get_sub_field('image_repeater');
-						$link = get_sub_field('link_repeater');
+						$file = get_sub_field('pdf_repeater');
 						?>
 
-						
-						<a href="<?php echo $link['url']; ?>" target="_blank" rel="noopener noreferrer">
+						<a href="<?php echo $file['url']; ?>" target="_blank" rel="noopener noreferrer">
 							<img src="<?php echo $image['url']; ?>" />
 						</a>
 			
