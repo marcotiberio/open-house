@@ -1078,7 +1078,7 @@
                     </g>
                   </g>
                   <g id="_05_ADREIZEHN" data-name="05_ADREIZEHN" transform="translate(694.829 475.299)">
-                    <path id="_05_ADREIZEHN_FLOOR" onclick="window.location.href='#'" data-name="05_ADREIZEHN_FLOOR" d="M8811.252,617.974l-101.98,58.878-78.885,42.8-244.82,149.321,213.186,123.139,76.718-46.209,87.887,16.914,58.59-101.482,87.886,16.914,58.591-101.482,87.886,16.914L9114.9,692.2l87.886,16.914,57.523-99.634L9036.532,487.909,8852.368,594.236Z" transform="translate(-8384.706 -487.909)" fill="#fff" fill-rule="evenodd"/>
+                    <path id="_05_ADREIZEHN_FLOOR" onclick="window.location.href='https://open-house.architektur.tu-berlin.de/?page_id=4324'" data-name="05_ADREIZEHN_FLOOR" d="M8811.252,617.974l-101.98,58.878-78.885,42.8-244.82,149.321,213.186,123.139,76.718-46.209,87.887,16.914,58.59-101.482,87.886,16.914,58.591-101.482,87.886,16.914L9114.9,692.2l87.886,16.914,57.523-99.634L9036.532,487.909,8852.368,594.236Z" transform="translate(-8384.706 -487.909)" fill="#fff" fill-rule="evenodd"/>
                     <g id="_05_ADREIZEHN_HATCH" data-name="05_ADREIZEHN_HATCH">
                       <line id="Line_7312" data-name="Line 7312" x1="245.68" y2="148.88" transform="translate(0 231.749)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.288"/>
                       <path id="Path_19951" data-name="Path 19951" stroke="#000" d="M8868.153,594.236l184.164-106.327,167.257,90.869" fill="none" transform="translate(-8400.492 -487.909)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.288" fill-rule="evenodd"/>
@@ -3367,7 +3367,7 @@
                     <path id="Path_24599" data-name="Path 24599" d="M8329.029,281.238l-5.463,3.153V305.61l-4.477,2.584V286.977l-5.371,3.1v-4.293l15.311-8.84Z" transform="translate(-8190.735 -214.958)"/>
                     <path id="Path_24600" data-name="Path 24600" d="M8362.008,283.328l-4.445,2.567V274.98l-6.586,3.8V289.7l-4.461,2.575v-25.51l4.461-2.576v10.32l6.586-3.8v-10.32l4.445-2.568Z" transform="translate(-8205.656 -206.255)"/>
                   </g>
-                  <g id="_05_ADREIZEHN_TEXT" onclick="window.location.href='#'" data-name="05_ADREIZEHN_TEXT" transform="translate(883.213 3776.187)">
+                  <g id="_05_ADREIZEHN_TEXT" onclick="window.location.href='https://open-house.architektur.tu-berlin.de/?page_id=4324'" data-name="05_ADREIZEHN_TEXT" transform="translate(883.213 3776.187)">
                     <path id="Path_24601" data-name="Path 24601" d="M8394.654,867.816l-5.063-2.924-.987,3.777-3.927-2.268,5.747-17.918,3.4,1.962,5.786,24.576-3.967-2.289Zm-4.256-6.03,3.436,1.983-1.719-8.562Z" transform="translate(-8384.677 -848.483)"/>
                     <path id="Path_24602" data-name="Path 24602" d="M8415.267,881.284V860.048l4.864,2.808a13.572,13.572,0,0,1,5.135,5.327,15.8,15.8,0,0,1,1.951,7.6v3.442q0,4.186-1.914,5.466t-5.273-.66Zm3.714-15.519v14.1l1.111.642q1.857,1.073,2.615.38t.8-3.443v-3.69a11.422,11.422,0,0,0-.72-4.565,6.027,6.027,0,0,0-2.451-2.647Z" transform="translate(-8398.619 -853.754)"/>
                     <path id="Path_24603" data-name="Path 24603" d="M8447.7,892.251l-1.844-1.065v7.759l-3.714-2.145V875.565l5.924,3.42a11.731,11.731,0,0,1,4.313,4.16,10.761,10.761,0,0,1,1.522,5.626q0,4.23-2.665,4.383l3.221,10.552v.2l-3.991-2.3Zm-1.844-4.638,2.109,1.218q1.11.642,1.667.109a2.692,2.692,0,0,0,.556-1.962q0-3.193-2.159-4.441l-2.173-1.254Z" transform="translate(-8410.87 -860.827)"/>
