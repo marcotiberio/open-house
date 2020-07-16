@@ -1649,6 +1649,13 @@ textarea {
 	/* row-gap: 5%; */
 }
 
+.page-template-template_chatroom .entry-content {
+	width: 100vw;
+	height: auto;
+	margin: 0;
+	padding: 12% 8%;
+}
+
 @media (max-width: 1024px) {
 
 	.page-template-template_chatroom #site-navigation,
@@ -2150,6 +2157,14 @@ textarea {
 	.wp-block-getwid-custom-post-type {
 		overflow: auto;
 		height: 70vh;
+	}
+
+	.page-id-7913 .studio-code {
+		margin: 0;
+	  	position: absolute;
+	  	top: 17.5vh;
+	  	left: 50%;
+	  	transform: translate(-50%, -50%);
 	}
 
 }
