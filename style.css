@@ -2132,10 +2132,9 @@ textarea {
 	
 	.page-template-template-child .site-main #logoStudio {
     	position: fixed;
-    	bottom: 0;
-		right: 5%;
-		width: 10%;
-		height: fit-content;
+    	top: 4%;
+    	right: 6%;
+    	width: 15%;
 	}
 	
 	.cover-mobile {
