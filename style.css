@@ -1958,13 +1958,13 @@ textarea {
 }
 
 .page-template-template-parent .site-main #logoStudio,
-.page-template-template-child .site-main #logoStudio{
+.page-template-template-child .site-main #logoStudio {
 	display: block;
 	position: absolute;
 	margin: 0;
 	padding: 0;
 	top: 7vh;
-	right: 4vh;
+	right: 3vw;
 	cursor: pointer;
 	z-index: 2001 !important;
 }
@@ -2384,7 +2384,7 @@ textarea {
 	margin: 0;
 	padding: 0;
 	top: 7vh;
-	right: 4vh;
+	right: 3vw;
 	cursor: pointer;
 	z-index: 2001 !important;
 }
