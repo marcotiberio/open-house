@@ -2182,6 +2182,7 @@ textarea {
 		top: 30px;
 	}
 	
+	.page-template-template-parent .site-main #logoStudio,
 	.page-template-template-child .site-main #logoStudio {
     	position: fixed;
     	top: 4%;
@@ -2501,6 +2502,13 @@ textarea {
 	
 	.slick-next:before {
 		display: none;
+	}
+
+	.post-template-program .site-main #logoStudio {
+    	position: fixed;
+    	top: 4%;
+    	right: 26px;
+    	width: 20%;
 	}
 
 }
