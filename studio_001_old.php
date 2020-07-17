@@ -52,11 +52,11 @@
         <div class="footer">
             <div class="bottom-left">
                 <a onclick="goBack()">
-                    <img src="http://staging-tuberlinifa.kinsta.cloud/wp-content/uploads/2020/06/MARC-T-STAIR.png" alt="">
+                    <img src="https://open-house.architektur.tu-berlin.de/wp-content/uploads/2020/06/MARC-T-STAIR.png" alt="">
                 </a>
             </div>
             <div class="bottom-right">
-                <img id="openInfo" src="http://staging-tuberlinifa.kinsta.cloud/wp-content/uploads/2020/06/info-icon.png" alt="Icon Info">
+                <img id="openInfo" src="https://open-house.architektur.tu-berlin.de/wp-content/uploads/2020/06/info-icon.png" alt="Icon Info">
             </div>
         </div>
     </section>
@@ -93,7 +93,7 @@
             <span class="close">&times;</span>            
                 <?php the_field('info_studio'); ?>
             <div id="openVideo">
-                <span><img src="http://staging-tuberlinifa.kinsta.cloud/wp-content/uploads/2020/06/play-button.png" alt="Play Button"></span>
+                <span><img src="https://open-house.architektur.tu-berlin.de/wp-content/uploads/2020/06/play-button.png" alt="Play Button"></span>
                 <h3>Interview</h3>
             </div>
         </div>

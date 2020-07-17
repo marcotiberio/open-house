@@ -29,7 +29,7 @@
 	<header id="masthead" class="site-header">
 		<div class="site-branding">
 			<div class="custom-logo-link" id="openMenu">
-				<img id="openMenu" src="http://staging-tuberlinifa.kinsta.cloud/wp-content/uploads/2020/06/logo.png" alt="Logo">
+				<img id="openMenu" src="https://open-house.architektur.tu-berlin.de/wp-content/uploads/2020/06/logo.png" alt="Logo">
 			</div>
 			
 		</div><!-- .site-branding -->
