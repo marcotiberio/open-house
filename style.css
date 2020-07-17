@@ -1760,7 +1760,7 @@ textarea {
 @media (min-width: 1920px) {
 
 	.gallery-news {
-		margin-top: 30vh;
+		margin-top: 20vh;
 		overflow: auto;
 		white-space: nowrap;
 	}
