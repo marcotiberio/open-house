@@ -3630,250 +3630,248 @@
 
   <script>
 
-  document.getElementById("buttonZero").style.color ="#1717E2";
-  document.getElementById("buttonOne").style.color ="#1717E2";
-	document.getElementById("buttonTwo").style.color ="#1717E2";
-	document.getElementById("buttonThree").style.color ="#1717E2";
-	document.getElementById("buttonFour").style.color ="#1717E2";
-	document.getElementById("buttonFive").style.color ="#1717E2";
-	document.getElementById("buttonSix").style.color ="#1717E2";
-	document.getElementById("buttonSeven").style.color ="#1717E2";
-	document.getElementById("buttonEight").style.color ="#1717E2";
-	document.getElementById("buttonNine").style.color ="#1717E2";
+  	document.getElementById("buttonZero").style.color ="#1717E2";
+  	document.getElementById("buttonOne").style.color ="#1717E2";
+    document.getElementById("buttonTwo").style.color ="#1717E2";
+    document.getElementById("buttonThree").style.color ="#1717E2";
+    document.getElementById("buttonFour").style.color ="#1717E2";
+    document.getElementById("buttonFive").style.color ="#1717E2";
+    document.getElementById("buttonSix").style.color ="#1717E2";
+    document.getElementById("buttonSeven").style.color ="#1717E2";
+    document.getElementById("buttonEight").style.color ="#1717E2";
+    document.getElementById("buttonNine").style.color ="#1717E2";
 
 
-	document.getElementById("buttonZero").onclick = function(){
-		this.style.color ="#F3F3F3";
-    this.style.webkitTextStroke ="2px #1717E2";
-    document.getElementById("buttonOne").style.color ="#1717E2";
-		document.getElementById("buttonOne").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonTwo").style.color ="#1717E2";
-		document.getElementById("buttonTWo").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonThree").style.color ="#1717E2";
-		document.getElementById("buttonThree").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonFour").style.color ="#1717E2";
-		document.getElementById("buttonFour").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonFive").style.color ="#1717E2";
-		document.getElementById("buttonFive").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonSix").style.color ="#1717E2";
-		document.getElementById("buttonSix").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonSeven").style.color ="#1717E2";
-		document.getElementById("buttonSeven").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonEight").style.color ="#1717E2";
-		document.getElementById("buttonEight").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonNine").style.color ="#1717E2";
-		document.getElementById("buttonNine").style.webkitTextStroke ="0px 0px transparent";
-  };
-  
-  document.getElementById("buttonOne").onclick = function(){
-		this.style.color ="#F3F3F3";
-    this.style.webkitTextStroke ="2px #1717E2";
-    document.getElementById("buttonZero").style.color ="#1717E2";
-		document.getElementById("buttonZero").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonTwo").style.color ="#1717E2";
-		document.getElementById("buttonTWo").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonThree").style.color ="#1717E2";
-		document.getElementById("buttonThree").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonFour").style.color ="#1717E2";
-		document.getElementById("buttonFour").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonFive").style.color ="#1717E2";
-		document.getElementById("buttonFive").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonSix").style.color ="#1717E2";
-		document.getElementById("buttonSix").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonSeven").style.color ="#1717E2";
-		document.getElementById("buttonSeven").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonEight").style.color ="#1717E2";
-		document.getElementById("buttonEight").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonNine").style.color ="#1717E2";
-		document.getElementById("buttonNine").style.webkitTextStroke ="0px 0px transparent";
-  };
-  
-  document.getElementById("buttonTwo").onclick = function(){
-		this.style.color ="#F3F3F3";
-    this.style.webkitTextStroke ="2px #1717E2";
-    document.getElementById("buttonOne").style.color ="#1717E2";
-		document.getElementById("buttonOne").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonZero").style.color ="#1717E2";
-		document.getElementById("buttonZero").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonThree").style.color ="#1717E2";
-		document.getElementById("buttonThree").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonFour").style.color ="#1717E2";
-		document.getElementById("buttonFour").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonFive").style.color ="#1717E2";
-		document.getElementById("buttonFive").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonSix").style.color ="#1717E2";
-		document.getElementById("buttonSix").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonSeven").style.color ="#1717E2";
-		document.getElementById("buttonSeven").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonEight").style.color ="#1717E2";
-		document.getElementById("buttonEight").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonNine").style.color ="#1717E2";
-		document.getElementById("buttonNine").style.webkitTextStroke ="0px 0px transparent";
-  };
-  
-  document.getElementById("buttonThree").onclick = function(){
-		this.style.color ="#F3F3F3";
-    this.style.webkitTextStroke ="2px #1717E2";
-    document.getElementById("buttonOne").style.color ="#1717E2";
-		document.getElementById("buttonOne").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonTwo").style.color ="#1717E2";
-		document.getElementById("buttonTWo").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonZero").style.color ="#1717E2";
-		document.getElementById("buttonZero").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonFour").style.color ="#1717E2";
-		document.getElementById("buttonFour").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonFive").style.color ="#1717E2";
-		document.getElementById("buttonFive").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonSix").style.color ="#1717E2";
-		document.getElementById("buttonSix").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonSeven").style.color ="#1717E2";
-		document.getElementById("buttonSeven").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonEight").style.color ="#1717E2";
-		document.getElementById("buttonEight").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonNine").style.color ="#1717E2";
-		document.getElementById("buttonNine").style.webkitTextStroke ="0px 0px transparent";
-  };
-  
-  document.getElementById("buttonFour").onclick = function(){
-		this.style.color ="#F3F3F3";
-    this.style.webkitTextStroke ="2px #1717E2";
-    document.getElementById("buttonOne").style.color ="#1717E2";
-		document.getElementById("buttonOne").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonTwo").style.color ="#1717E2";
-		document.getElementById("buttonTWo").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonThree").style.color ="#1717E2";
-		document.getElementById("buttonThree").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonZero").style.color ="#1717E2";
-		document.getElementById("buttonZero").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonFive").style.color ="#1717E2";
-		document.getElementById("buttonFive").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonSix").style.color ="#1717E2";
-		document.getElementById("buttonSix").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonSeven").style.color ="#1717E2";
-		document.getElementById("buttonSeven").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonEight").style.color ="#1717E2";
-		document.getElementById("buttonEight").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonNine").style.color ="#1717E2";
-		document.getElementById("buttonNine").style.webkitTextStroke ="0px 0px transparent";
-  };
-  
-  document.getElementById("buttonFive").onclick = function(){
-		this.style.color ="#F3F3F3";
-    this.style.webkitTextStroke ="2px #1717E2";
-    document.getElementById("buttonOne").style.color ="#1717E2";
-		document.getElementById("buttonOne").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonTwo").style.color ="#1717E2";
-		document.getElementById("buttonTWo").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonThree").style.color ="#1717E2";
-		document.getElementById("buttonThree").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonFour").style.color ="#1717E2";
-		document.getElementById("buttonFour").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonZero").style.color ="#1717E2";
-		document.getElementById("buttonZero").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonSix").style.color ="#1717E2";
-		document.getElementById("buttonSix").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonSeven").style.color ="#1717E2";
-		document.getElementById("buttonSeven").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonEight").style.color ="#1717E2";
-		document.getElementById("buttonEight").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonNine").style.color ="#1717E2";
-		document.getElementById("buttonNine").style.webkitTextStroke ="0px 0px transparent";
-  };
-  
-  document.getElementById("buttonSix").onclick = function(){
-		this.style.color ="#F3F3F3";
-    this.style.webkitTextStroke ="2px #1717E2";
-    document.getElementById("buttonOne").style.color ="#1717E2";
-		document.getElementById("buttonOne").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonTwo").style.color ="#1717E2";
-		document.getElementById("buttonTWo").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonThree").style.color ="#1717E2";
-		document.getElementById("buttonThree").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonFour").style.color ="#1717E2";
-		document.getElementById("buttonFour").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonFive").style.color ="#1717E2";
-		document.getElementById("buttonFive").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonZero").style.color ="#1717E2";
-		document.getElementById("buttonZero").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonSeven").style.color ="#1717E2";
-		document.getElementById("buttonSeven").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonEight").style.color ="#1717E2";
-		document.getElementById("buttonEight").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonNine").style.color ="#1717E2";
-		document.getElementById("buttonNine").style.webkitTextStroke ="0px 0px transparent";
-  };
-  
-  document.getElementById("buttonSeven").onclick = function(){
-		this.style.color ="#F3F3F3";
-    this.style.webkitTextStroke ="2px #1717E2";
-    document.getElementById("buttonOne").style.color ="#1717E2";
-		document.getElementById("buttonOne").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonTwo").style.color ="#1717E2";
-		document.getElementById("buttonTWo").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonThree").style.color ="#1717E2";
-		document.getElementById("buttonThree").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonFour").style.color ="#1717E2";
-		document.getElementById("buttonFour").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonFive").style.color ="#1717E2";
-		document.getElementById("buttonFive").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonSix").style.color ="#1717E2";
-		document.getElementById("buttonSix").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonZero").style.color ="#1717E2";
-		document.getElementById("buttonZero").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonEight").style.color ="#1717E2";
-		document.getElementById("buttonEight").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonNine").style.color ="#1717E2";
-		document.getElementById("buttonNine").style.webkitTextStroke ="0px 0px transparent";
-  };
-  
-  document.getElementById("buttonEight").onclick = function(){
-		this.style.color ="#F3F3F3";
-    this.style.webkitTextStroke ="2px #1717E2";
-    document.getElementById("buttonOne").style.color ="#1717E2";
-		document.getElementById("buttonOne").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonTwo").style.color ="#1717E2";
-		document.getElementById("buttonTWo").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonThree").style.color ="#1717E2";
-		document.getElementById("buttonThree").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonFour").style.color ="#1717E2";
-		document.getElementById("buttonFour").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonFive").style.color ="#1717E2";
-		document.getElementById("buttonFive").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonSix").style.color ="#1717E2";
-		document.getElementById("buttonSix").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonSeven").style.color ="#1717E2";
-		document.getElementById("buttonSeven").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonZero").style.color ="#1717E2";
-		document.getElementById("buttonZero").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonNine").style.color ="#1717E2";
-		document.getElementById("buttonNine").style.webkitTextStroke ="0px 0px transparent";
-  };
-  
-  document.getElementById("buttonNine").onclick = function(){
-		this.style.color ="#F3F3F3";
-    this.style.webkitTextStroke ="2px #1717E2";
-    document.getElementById("buttonOne").style.color ="#1717E2";
-		document.getElementById("buttonOne").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonTwo").style.color ="#1717E2";
-		document.getElementById("buttonTWo").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonThree").style.color ="#1717E2";
-		document.getElementById("buttonThree").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonFour").style.color ="#1717E2";
-		document.getElementById("buttonFour").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonFive").style.color ="#1717E2";
-		document.getElementById("buttonFive").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonSix").style.color ="#1717E2";
-		document.getElementById("buttonSix").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonSeven").style.color ="#1717E2";
-		document.getElementById("buttonSeven").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonEight").style.color ="#1717E2";
-		document.getElementById("buttonEight").style.webkitTextStroke ="0px 0px transparent";
-		document.getElementById("buttonZero").style.color ="#1717E2";
-		document.getElementById("buttonZero").style.webkitTextStroke ="0px 0px transparent";
-	};
-
-	
-  
+    document.getElementById("buttonZero").onclick = function(){
+      this.style.color ="#F3F3F3";
+      this.style.webkitTextStroke ="2px #1717E2";
+      document.getElementById("buttonOne").style.color ="#1717E2";
+      document.getElementById("buttonOne").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonTwo").style.color ="#1717E2";
+      document.getElementById("buttonTwo").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonThree").style.color ="#1717E2";
+      document.getElementById("buttonThree").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonFour").style.color ="#1717E2";
+      document.getElementById("buttonFour").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonFive").style.color ="#1717E2";
+      document.getElementById("buttonFive").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonSix").style.color ="#1717E2";
+      document.getElementById("buttonSix").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonSeven").style.color ="#1717E2";
+      document.getElementById("buttonSeven").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonEight").style.color ="#1717E2";
+      document.getElementById("buttonEight").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonNine").style.color ="#1717E2";
+      document.getElementById("buttonNine").style.webkitTextStroke ="0px 0px transparent";
+    };
+    
+    document.getElementById("buttonOne").onclick = function(){
+      this.style.color ="#F3F3F3";
+      this.style.webkitTextStroke ="2px #1717E2";
+      document.getElementById("buttonZero").style.color ="#1717E2";
+      document.getElementById("buttonZero").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonTwo").style.color ="#1717E2";
+      document.getElementById("buttonTwo").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonThree").style.color ="#1717E2";
+      document.getElementById("buttonThree").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonFour").style.color ="#1717E2";
+      document.getElementById("buttonFour").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonFive").style.color ="#1717E2";
+      document.getElementById("buttonFive").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonSix").style.color ="#1717E2";
+      document.getElementById("buttonSix").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonSeven").style.color ="#1717E2";
+      document.getElementById("buttonSeven").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonEight").style.color ="#1717E2";
+      document.getElementById("buttonEight").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonNine").style.color ="#1717E2";
+      document.getElementById("buttonNine").style.webkitTextStroke ="0px 0px transparent";
+    };
+    
+    document.getElementById("buttonTwo").onclick = function(){
+      this.style.color ="#F3F3F3";
+      this.style.webkitTextStroke ="2px #1717E2";
+        document.getElementById("buttonZero").style.color ="#1717E2";
+      document.getElementById("buttonZero").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonOne").style.color ="#1717E2";
+      document.getElementById("buttonOne").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonThree").style.color ="#1717E2";
+      document.getElementById("buttonThree").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonFour").style.color ="#1717E2";
+      document.getElementById("buttonFour").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonFive").style.color ="#1717E2";
+      document.getElementById("buttonFive").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonSix").style.color ="#1717E2";
+      document.getElementById("buttonSix").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonSeven").style.color ="#1717E2";
+      document.getElementById("buttonSeven").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonEight").style.color ="#1717E2";
+      document.getElementById("buttonEight").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonNine").style.color ="#1717E2";
+      document.getElementById("buttonNine").style.webkitTextStroke ="0px 0px transparent";
+    };
+    
+    document.getElementById("buttonThree").onclick = function(){
+      this.style.color ="#F3F3F3";
+      this.style.webkitTextStroke ="2px #1717E2";
+        document.getElementById("buttonZero").style.color ="#1717E2";
+      document.getElementById("buttonZero").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonOne").style.color ="#1717E2";
+      document.getElementById("buttonOne").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonTwo").style.color ="#1717E2";
+      document.getElementById("buttonTwo").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonFour").style.color ="#1717E2";
+      document.getElementById("buttonFour").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonFive").style.color ="#1717E2";
+      document.getElementById("buttonFive").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonSix").style.color ="#1717E2";
+      document.getElementById("buttonSix").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonSeven").style.color ="#1717E2";
+      document.getElementById("buttonSeven").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonEight").style.color ="#1717E2";
+      document.getElementById("buttonEight").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonNine").style.color ="#1717E2";
+      document.getElementById("buttonNine").style.webkitTextStroke ="0px 0px transparent";
+    };
+    
+    document.getElementById("buttonFour").onclick = function(){
+      this.style.color ="#F3F3F3";
+        this.style.webkitTextStroke ="2px #1717E2";
+        document.getElementById("buttonZero").style.color ="#1717E2";
+      document.getElementById("buttonZero").style.webkitTextStroke ="0px 0px transparent";
+        document.getElementById("buttonOne").style.color ="#1717E2";
+      document.getElementById("buttonOne").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonTwo").style.color ="#1717E2";
+      document.getElementById("buttonTwo").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonThree").style.color ="#1717E2";
+      document.getElementById("buttonThree").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonFive").style.color ="#1717E2";
+      document.getElementById("buttonFive").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonSix").style.color ="#1717E2";
+      document.getElementById("buttonSix").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonSeven").style.color ="#1717E2";
+      document.getElementById("buttonSeven").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonEight").style.color ="#1717E2";
+      document.getElementById("buttonEight").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonNine").style.color ="#1717E2";
+      document.getElementById("buttonNine").style.webkitTextStroke ="0px 0px transparent";
+    };
+    
+    document.getElementById("buttonFive").onclick = function(){
+      this.style.color ="#F3F3F3";
+        this.style.webkitTextStroke ="2px #1717E2";
+        document.getElementById("buttonZero").style.color ="#1717E2";
+      document.getElementById("buttonZero").style.webkitTextStroke ="0px 0px transparent";
+        document.getElementById("buttonOne").style.color ="#1717E2";
+      document.getElementById("buttonOne").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonTwo").style.color ="#1717E2";
+      document.getElementById("buttonTwo").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonThree").style.color ="#1717E2";
+      document.getElementById("buttonThree").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonFour").style.color ="#1717E2";
+      document.getElementById("buttonFour").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonSix").style.color ="#1717E2";
+      document.getElementById("buttonSix").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonSeven").style.color ="#1717E2";
+      document.getElementById("buttonSeven").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonEight").style.color ="#1717E2";
+      document.getElementById("buttonEight").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonNine").style.color ="#1717E2";
+      document.getElementById("buttonNine").style.webkitTextStroke ="0px 0px transparent";
+    };
+    
+    document.getElementById("buttonSix").onclick = function(){
+      this.style.color ="#F3F3F3";
+        this.style.webkitTextStroke ="2px #1717E2";
+        document.getElementById("buttonZero").style.color ="#1717E2";
+      document.getElementById("buttonZero").style.webkitTextStroke ="0px 0px transparent";
+        document.getElementById("buttonOne").style.color ="#1717E2";
+      document.getElementById("buttonOne").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonTwo").style.color ="#1717E2";
+      document.getElementById("buttonTwo").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonThree").style.color ="#1717E2";
+      document.getElementById("buttonThree").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonFour").style.color ="#1717E2";
+      document.getElementById("buttonFour").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonFive").style.color ="#1717E2";
+      document.getElementById("buttonFive").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonSeven").style.color ="#1717E2";
+      document.getElementById("buttonSeven").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonEight").style.color ="#1717E2";
+      document.getElementById("buttonEight").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonNine").style.color ="#1717E2";
+      document.getElementById("buttonNine").style.webkitTextStroke ="0px 0px transparent";
+    };
+    
+    document.getElementById("buttonSeven").onclick = function(){
+      this.style.color ="#F3F3F3";
+        this.style.webkitTextStroke ="2px #1717E2";
+        document.getElementById("buttonZero").style.color ="#1717E2";
+      document.getElementById("buttonZero").style.webkitTextStroke ="0px 0px transparent";
+        document.getElementById("buttonOne").style.color ="#1717E2";
+      document.getElementById("buttonOne").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonTwo").style.color ="#1717E2";
+      document.getElementById("buttonTwo").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonThree").style.color ="#1717E2";
+      document.getElementById("buttonThree").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonFour").style.color ="#1717E2";
+      document.getElementById("buttonFour").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonFive").style.color ="#1717E2";
+      document.getElementById("buttonFive").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonSix").style.color ="#1717E2";
+      document.getElementById("buttonSix").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonEight").style.color ="#1717E2";
+      document.getElementById("buttonEight").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonNine").style.color ="#1717E2";
+      document.getElementById("buttonNine").style.webkitTextStroke ="0px 0px transparent";
+    };
+    
+    document.getElementById("buttonEight").onclick = function(){
+      this.style.color ="#F3F3F3";
+        this.style.webkitTextStroke ="2px #1717E2";
+        document.getElementById("buttonZero").style.color ="#1717E2";
+      document.getElementById("buttonZero").style.webkitTextStroke ="0px 0px transparent";
+        document.getElementById("buttonOne").style.color ="#1717E2";
+      document.getElementById("buttonOne").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonTwo").style.color ="#1717E2";
+      document.getElementById("buttonTwo").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonThree").style.color ="#1717E2";
+      document.getElementById("buttonThree").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonFour").style.color ="#1717E2";
+      document.getElementById("buttonFour").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonFive").style.color ="#1717E2";
+      document.getElementById("buttonFive").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonSix").style.color ="#1717E2";
+      document.getElementById("buttonSix").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonSeven").style.color ="#1717E2";
+      document.getElementById("buttonSeven").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonNine").style.color ="#1717E2";
+      document.getElementById("buttonNine").style.webkitTextStroke ="0px 0px transparent";
+    };
+    
+    document.getElementById("buttonNine").onclick = function(){
+      this.style.color ="#F3F3F3";
+      this.style.webkitTextStroke ="2px #1717E2";
+      document.getElementById("buttonZero").style.color ="#1717E2";
+      document.getElementById("buttonZero").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonOne").style.color ="#1717E2";
+      document.getElementById("buttonOne").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonTwo").style.color ="#1717E2";
+      document.getElementById("buttonTWo").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonThree").style.color ="#1717E2";
+      document.getElementById("buttonThree").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonFour").style.color ="#1717E2";
+      document.getElementById("buttonFour").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonFive").style.color ="#1717E2";
+      document.getElementById("buttonFive").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonSix").style.color ="#1717E2";
+      document.getElementById("buttonSix").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonSeven").style.color ="#1717E2";
+      document.getElementById("buttonSeven").style.webkitTextStroke ="0px 0px transparent";
+      document.getElementById("buttonEight").style.color ="#1717E2";
+      document.getElementById("buttonEight").style.webkitTextStroke ="0px 0px transparent";
+    };
+    
   </script>
 
 <?php
