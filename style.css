@@ -1709,7 +1709,7 @@ textarea {
 	position: relative;
 	width: 100%;
   	height: auto;
-	margin-top: 170px;
+	margin-top: 25vh;
   	overflow: auto;
   	white-space: nowrap;
 }
@@ -1760,7 +1760,28 @@ textarea {
 @media (min-width: 1920px) {
 
 	.gallery-news {
-		margin-top: 200px;
+		margin-top: 30vh;
+		overflow: auto;
+		white-space: nowrap;
+	}
+
+	.gallery-news a {
+		display: inline-block;
+		margin: 0 20px;
+		width: auto;
+	}
+
+	.gallery-news a img {
+		height: 75vh;
+    	width: auto;
+	}
+
+}
+
+@media (min-width: 2560px) {
+
+	.gallery-news {
+		margin-top: 20vh;
 		overflow: auto;
 		white-space: nowrap;
 	}
