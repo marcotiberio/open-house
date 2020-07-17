@@ -25,7 +25,7 @@
             </div>
         </section>
         <div class="impressum">
-            <strong>Impressum</strong>
+            <h3>Impressum</h3>
             <p>Angaben gemäß § 5 TMG:<br>
                 Haftungsausschluss (Disclaimer)<br>
                 IfA, TU Berlin Straße des 17. Juni 152 10623 Berlin<br>
