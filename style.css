@@ -1335,7 +1335,7 @@ textarea {
 
 .landing-video video {
 	width: 100vw !important;
-	height: auto !important;
+	height: 100vw !important;
 }
 
 .page-template-template_landingpage .button_logo-landing {
@@ -1343,7 +1343,7 @@ textarea {
   	position: absolute;
   	top: 50%;
   	left: 50%;
-  transform: translate(-50%, -50%);
+  	transform: translate(-50%, -50%);
 }
 
 .page-template-landing-page header {
