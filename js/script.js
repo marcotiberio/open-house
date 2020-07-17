@@ -266,57 +266,6 @@ $(document).ready(function(){
 
 
 
-$(document).ready(function(){
-    $("#buttonTwo").click(function() {
-      $("#buttonZero").removeClass('floor-button-clicked');
-      $("#buttonOne").removeClass('floor-button-clicked');
-      $("#buttonTwo").removeClass('floor-button-clicked');
-      $("#buttonThree").addClass('floor-button-clicked');
-      $("#buttonFour").removeClass('floor-button-clicked');
-      $("#buttonFour").removeClass('floor-button-clicked');
-      $("#buttonFive").removeClass('floor-button-clicked');
-      $("#buttonSix").removeClass('floor-button-clicked');
-      $("#buttonSeven").removeClass('floor-button-clicked');
-      $("#buttonEight").removeClass('floor-button-clicked');
-      $("#buttonNine").removeClass('floor-button-clicked');
-    });
-  });
-  
-
-$(document).ready(function(){
-  $("#buttonTwo").click(function() {
-    $("#buttonZero").removeClass('floor-button-clicked');
-    $("#buttonOne").removeClass('floor-button-clicked');
-    $("#buttonTwo").removeClass('floor-button-clicked');
-    $("#buttonThree").removeClass('floor-button-clicked');
-    $("#buttonFour").removeClass('floor-button-clicked');
-    $("#buttonFour").removeClass('floor-button-clicked');
-    $("#buttonFive").addClass('floor-button-clicked');
-    $("#buttonSix").removeClass('floor-button-clicked');
-    $("#buttonSeven").removeClass('floor-button-clicked');
-    $("#buttonEight").removeClass('floor-button-clicked');
-    $("#buttonNine").removeClass('floor-button-clicked');
-  });
-});
-
-$(document).ready(function(){
-  $("#buttonTwo").click(function() {
-    $("#buttonZero").removeClass('floor-button-clicked');
-    $("#buttonOne").removeClass('floor-button-clicked');
-    $("#buttonTwo").removeClass('floor-button-clicked');
-    $("#buttonThree").removeClass('floor-button-clicked');
-    $("#buttonFour").removeClass('floor-button-clicked');
-    $("#buttonFour").removeClass('floor-button-clicked');
-    $("#buttonFive").removeClass('floor-button-clicked');
-    $("#buttonSix").removeClass('floor-button-clicked');
-    $("#buttonSeven").removeClass('floor-button-clicked');
-    $("#buttonEight").removeClass('floor-button-clicked');
-    $("#buttonNine").addClass('floor-button-clicked');
-  });
-});
-
-
-
 // Menu Toggle
 $(document).ready(function(){
     $("#openMenu").click(function(){
