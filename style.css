@@ -2728,6 +2728,7 @@ textarea {
 #mtphr-dnt-1922 {
 	position: relative;
 	top: 93vh;
+	z-index: 30000;
 }
 
 #mtphr-dnt-1922 a {
@@ -2737,6 +2738,7 @@ textarea {
 	font-style: oblique;
 	font-size: 22px;
 	font-weight: 300;
+
 }
 
 @media (max-width: 425px) {
