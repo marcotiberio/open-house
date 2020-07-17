@@ -1538,7 +1538,8 @@ textarea {
 }
 
 .impressum h3 {
-	
+	font-weight: 400;
+	-webkit-text-stroke: 0.4px #1717E2;
 }
 
 @media (max-width: 1024px) {
