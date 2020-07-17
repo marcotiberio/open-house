@@ -1958,8 +1958,8 @@ textarea {
 	position: absolute;
 	margin: 0;
 	padding: 0;
-	top: 15%;
-	right: 6%;
+	top: 7vh;
+	right: 4vh;
 	cursor: pointer;
 	z-index: 2001 !important;
 }
@@ -2377,8 +2377,8 @@ textarea {
 	position: absolute;
 	margin: 0;
 	padding: 0;
-	top: 15%;
-	right: 6%;
+	top: 7vh;
+	right: 4vh;
 	cursor: pointer;
 	z-index: 2001 !important;
 }
