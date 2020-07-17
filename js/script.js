@@ -102,11 +102,9 @@ $(document).ready(function(){
 $(document).ready(function(){
     $("#_03_TEK_FLOOR").mouseenter(function(){
       $("#_03_TEK_TEXT").css("display", "block");
-      $("#_03_Tragwerkslehre").css("display", "block");
     });
     $("#_03_TEK_FLOOR").mouseleave(function(){
       $("#_03_TEK_TEXT").css("display", "none");
-      $("#_03_Tragwerkslehre").css("display", "none");
     });
 });
 
