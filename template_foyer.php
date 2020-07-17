@@ -17,37 +17,37 @@
 
         <ul class="floor-pad" id="floorPad">
           <li>
-            <a href="#seventhFloor" onclick="activeFloor(this)">7</a>
+            <a href="#seventhFloor" id="buttonSeven" onclick="activeFloor(this)">7</a>
           </li>
           <li>
-            <a href="#eighthFloor" onclick="activeFloor(this)">8</a>
+            <a href="#eighthFloor" id="buttonEight" onclick="activeFloor(this)">8</a>
           </li>
           <li>
-            <a href="#ninthFloor" onclick="activeFloor(this)">9</a>
+            <a href="#ninthFloor" id="buttonNine" onclick="activeFloor(this)">9</a>
           </li>
           <li>
-            <a href="#fourthFloor" onclick="activeFloor(this)">4</a>
+            <a href="#fourthFloor" id="buttonFour" onclick="activeFloor(this)">4</a>
           </li>
           <li>
-            <a href="#fifthFloor" onclick="activeFloor(this)">5</a>
+            <a href="#fifthFloor" id="buttonFive" onclick="activeFloor(this)">5</a>
           </li>
           <li>
-            <a href="#sixthFloor" onclick="activeFloor(this)">6</a>
+            <a href="#sixthFloor" id="buttonSix" onclick="activeFloor(this)">6</a>
           </li>
           <li>
-            <a href="#firstFloor" onclick="activeFloor(this)">1</a>
+            <a href="#firstFloor" id="buttonOne" onclick="activeFloor(this)">1</a>
           </li>
           <li>
-            <a href="#secondFloor" onclick="activeFloor(this)">2</a>
+            <a href="#secondFloor" id="buttonTwo" onclick="activeFloor(this)">2</a>
           </li>
           <li>
-            <a href="#thirdFloor" onclick="activeFloor(this)">3</a>
+            <a href="#thirdFloor" id="buttonThree" onclick="activeFloor(this)">3</a>
           </li>
           <li>
             <a href="#"></a>
           </li>
           <li>
-            <a href="#groundFloor" onclick="activeFloor(this)">0</a>
+            <a href="#groundFloor" id="buttonZero" onclick="activeFloor(this)">0</a>
           </li>
           <li>
             <a href="#"></a>
