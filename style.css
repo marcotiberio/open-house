@@ -1334,8 +1334,13 @@ textarea {
 }
 
 .landing-video video {
-	width: 100vw !important;
-	height: 100vw !important;
+    width: calc(100vw - 32px) !important;
+    height: 100vh !important;
+    margin: 0;
+    position: absolute;
+    top: 51%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .page-template-template_landingpage .button_logo-landing {
